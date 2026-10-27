@@ -1,3 +1,4 @@
+
 .header{
     display:flex;
     align-items:center;
@@ -11,7 +12,102 @@
 }
 .Khuvsgul{
     backgroud-color:white;
-    height: 100px;
     text-align: center;
-    margin-top: 30px;
+    padding: top 40px;
+    line-height: 100px;
+}
+.top_container_images{
+    display: flex;
+    gap: 21px;
+    justify-content: center;
+}
+.content{
+    width: 284px;
+    height: 400px;
+    background-color: brown;
+    text-align: center;
+    border-radius: 12px;
+}
+.content2{
+    width: 284px;
+    height: 400px;
+    background-color: brown;
+    text-align: center;
+    border-radius: 12px;
+}
+.content3{
+    width: 284px;
+    height: 400px;
+    background-color: brown;
+    text-align: center;
+    border-radius: 12px;
+}
+.content4{
+    width: 284px;
+    height: 400px;
+    background-color: brown;
+    text-align: center;
+    border-radius: 12px;
+}
+.dot{
+    color:green;
+}
+.trip{
+    color:#303030;
+    width:555px;
+    height:88px;
+    font-size:72px;
+    line-height: 100%;
+}
+.trip2{
+    color:#ABABAB;
+    font-size:24px;
+}
+.contaner{
+    width: 50px hug;
+    height: 42 hug;
+}
+.khuvsgul_color{
+    color:#303030;
+    font-size:72px;
+}
+.bottom_container{
+    display:flex;
+    gap: 150px
+    max-width: 1198px;
+    max-height: 845px;
+    margin:0 auto;
+    margin-top: 240px;
+}
+.t1{
+  width:198px;
+  height:29px;
+  font-family:montserrat, sans-serif;
+  font-weight: 700;
+  font-size:24px;
+  color:#ABABAB;
+}
+.t2{
+    margin-top: 10px;
+    width:358px;
+    height:118px;
+    top:39px;
+    font-family:montserrat, sans-serif;
+    font-weight: 700;
+    font-size:48px;
+    color:#303030
+}
+.map_image{
+    border-radius: 25px;
+    width: 692px;
+    height: 845px;
+    margin-left: 150px;
+
+
+}
+.place{
+    flex-direction: column;
+
+    
+
 }
